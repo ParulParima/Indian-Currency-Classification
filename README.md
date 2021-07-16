@@ -51,6 +51,10 @@ A model has a life-cycle, and this very simple knowledge provides the backbone f
 * Learning Rate - 0.0001
 * Loss Function - SparseCategoricalCrossentropy
 
+### Model Architecture
+
+<img width="318px"  height = "1032px" src="https://github.com/ParulParima/Indian-Currency-Classification/blob/main/model_architecture.png?raw=true" />
+
 ### Evaluation of Model on the Validation Dataset
 
 * Validation:
