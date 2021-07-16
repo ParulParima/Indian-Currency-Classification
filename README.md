@@ -62,6 +62,6 @@ A model has a life-cycle, and this very simple knowledge provides the backbone f
 
 <br/>
 
-<img width="600px"  height = "500px" src="https://github.com/ParulParima/Indian-Currency-Classification/blob/main/Outputs/Output1.png?raw=true" />
-<img width="600px"  height = "500px" src="https://github.com/ParulParima/Indian-Currency-Classification/blob/main/Outputs/Output2.png?raw=true" />
-<img width="600px"  height = "500px" src="https://github.com/ParulParima/Indian-Currency-Classification/blob/main/Outputs/Output3.png?raw=true" />
+<img width="700px"  height = "450px" src="https://github.com/ParulParima/Indian-Currency-Classification/blob/main/Outputs/Output1.png?raw=true" />
+<img width="700px"  height = "450px" src="https://github.com/ParulParima/Indian-Currency-Classification/blob/main/Outputs/Output2.png?raw=true" />
+<img width="700px"  height = "450px" src="https://github.com/ParulParima/Indian-Currency-Classification/blob/main/Outputs/Output3.png?raw=true" />
