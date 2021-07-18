@@ -22,6 +22,7 @@ A model has a life-cycle, and this very simple knowledge provides the backbone f
 ### Dataset
 
 * Custom Dataset
+* Resizing Images to (300,300,3) in the local machine using Icecream Image Resizer
 * No. of (training + validation) images - 1239
 * No. of test images - 55
 
